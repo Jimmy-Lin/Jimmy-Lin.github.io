@@ -1,29 +1,21 @@
-## Welcome to GitHub Pages
+# Federated Learning under Heterogeneous Resource Constraints
+*Liang Ruofan, Lin Jimmy*
 
-You can use the [editor on GitHub](https://github.com/Jimmy-Lin/Jimmy-Lin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+In this project, we propose a novel set of local training tasks and assignment policy to address system heterogeneity in federated learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project Timeline
 
-### Markdown
+ - (Feb 3) Project Proposal Submission
+ - (Beginning February to End of February) Search for patterns in parameter convergence rate. Determine how to select smaller tasks for smaller devices. Determine how to characterize devices and their data. Record findings in progress report.
+ - (March 3rd) Progress Report Submission
+ - (Beginning March to End of March) Run experiments. Start paper draft and presentation slides.
+ - (April 7) Class Presentation Day
+ - (Beginning April to Mid April) Polish paper and related material.
+ - (April 17) Paper Submission
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Documents
+- [Project Proposal](jimmy-lin.github.io/proposal.pdf)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
